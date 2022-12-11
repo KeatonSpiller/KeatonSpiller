@@ -7,7 +7,7 @@
 <ul>
   <li>📖 Pursuing courses in Coursera <a href="https://www.coursera.org/professional-certificates/google-data-analytics">Google Data Analyst.</a></li><p>
   
-  <li>💡 Learning coding over <a href="https://www.hackerrank.com/KeatonSpiller">HackerRank.</a></li><p>
+  <li>💡 Learning coding with <a href="https://www.hackerrank.com/KeatonSpiller">HackerRank.</a></li><p>
   
   <li>💻 Currently working on Twitter sentiment analysis. </li><p>
   
