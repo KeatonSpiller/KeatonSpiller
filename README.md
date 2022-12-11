@@ -16,11 +16,10 @@
 
 | Data Science / Data Analysis  | Artificial Intelligence | Machine Learning |
 | ------------- | ------------- | ------------- |
-| <a href="https://github.com/KeatonSpiller/Modern-Regression-Analysis"> Modern Regression Analysis</a>  | Content Cell  |Content Cell  |
-| <a href="https://github.com/KeatonSpiller/Statistical-Learning"> Statistical Learning</a> | Content Cell  |Content Cell  |
+| <a href="https://github.com/KeatonSpiller/Modern-Regression-Analysis"> Modern Regression Analysis</a>  | <a href="https://github.com/KeatonSpiller/Othello"> Othello</a>  |<a href="https://github.com/KeatonSpiller/Spam-Filter"> Spam Filter</a>  |
+| <a href="https://github.com/KeatonSpiller/Statistical-Learning"> Statistical Learning</a> | tbc  | tbc |
  
- 
- 
+
  
  
 <!--
