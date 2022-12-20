@@ -9,7 +9,7 @@
   
   <li>💡 Learning coding with <a href="https://www.hackerrank.com/KeatonSpiller">HackerRank.</a></li><p>
   
-  <li>💻 Currently working on Twitter <a href='https://github.com/KeatonSpiller/Sentiment_Analysis/tree/main/Stock_Market'>sentiment analysis.</a></li><p> </li><p>
+  <li>💻 Currently working on Twitter <a href='https://github.com/KeatonSpiller/Sentiment_Analysis/tree/main/Stock_Market'>Sentiment Analysis.</a></li><p> </li><p>
   
   <li>🎓 Interested in continued education in Machine Learning, Artificial Intelligence, and Computer Science.</li> 
 </ul>
