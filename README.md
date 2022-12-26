@@ -16,11 +16,11 @@
 
 | Data Science / Data Analysis  | Artificial Intelligence | Machine Learning |
 | ------------- | ------------- | ------------- |
-| <a href="https://github.com/KeatonSpiller/Modern-Regression-Analysis"> Modern Regression Analysis</a>  | <a href="https://github.com/KeatonSpiller/Othello"> Othello</a>  |<a href="https://github.com/KeatonSpiller/Spam-Filter"> Spam Filter</a>  |
-| <a href="https://github.com/KeatonSpiller/Statistical-Learning"> Statistical Learning</a> | tbc  | tbc |
+| <a href="https://github.com/KeatonSpiller/Modern-Regression-Analysis"> Modern Regression Analysis</a>  | <a href="https://github.com/KeatonSpiller/Othello"> Adversarial Simulations of Othello</a>  |<a href="https://github.com/KeatonSpiller/Spam-Filter"> Naive Bayes Spam Filter</a>  |
+| <a href="https://github.com/KeatonSpiller/Statistical-Learning"> Statistical Learning</a> | <a href="https://github.com/KeatonSpiller/8-Queen-Problem"> Genetic Algorithm 8 Queen Problem </a>  | <a href="https://github.com/KeatonSpiller/K-Means-and-Fuzzy-C-Means-Clustering"> k Means and Fuzzy C Means Unsupervised Clustering </a>|
  
 
- 
+
  
 <!--
 - 🔭 I’m currently working on ...
