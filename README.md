@@ -9,7 +9,7 @@
   
   <li>💡 Learning coding with <a href="https://www.hackerrank.com/KeatonSpiller">HackerRank.</a></li><p>
   
-  <li>💻 Currently working on Twitter Stock Market <a href='https://github.com/KeatonSpiller/Sentiment_Analysis'>Sentiment Analysis.</a></li><p> </li><p>
+  <li>💻 Currently working on Twitter and Ticker Data Engineering <a href='https://github.com/KeatonSpiller/Twitter_Data_Engineering'>Data Engineering.</a></li><p> </li><p>
   
   <li>🎓 Interested in continued education in Machine Learning, Artificial Intelligence, and Computer Science.</li> 
 </ul>
