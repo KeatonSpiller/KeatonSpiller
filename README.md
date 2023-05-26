@@ -11,7 +11,7 @@
   
   <li>💻 Currently working on <a href='https://github.com/KeatonSpiller/Twitter_Data_Engineering'>Twitter Sentiment Stock Market Pipeline</a>
 &
-<href='https://github.com/KeatonSpiller/Social_Media_Pipeline'>v2</a>
+<a href='https://github.com/KeatonSpiller/Social_Media_Pipeline'>v2</a>
   </li><p>
   <li>🎓 Interested in continued education in Machine Learning, Artificial Intelligence, and Computer Science.</li> 
 </ul>
