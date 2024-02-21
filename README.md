@@ -11,7 +11,6 @@
 &
 <a href='https://github.com/KeatonSpiller/Social_Media_Pipeline'>v2</a>
   </li><p>
-  <li>  Computer Science, Data Science, Data Engineering, ML/AI </li> 
 </ul>
 
 | Data Science / Data Analysis  | Artificial Intelligence | Machine Learning | Data Engineering |
