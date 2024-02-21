@@ -5,15 +5,13 @@
 ⚡<a href="https://keatonspiller.github.io/Portfolio/"> Portfolio</a>
 
 <ul>
-  <li>📖 Pursuing courses in Coursera <a href="https://www.coursera.org/professional-certificates/google-data-analytics">Google Data Analyst.</a></li><p>
+  <li>📖🎓 Pursuing graduate courses at Portland State University in Computer Science </li><p>
   
-  <li>💡 Learning coding with <a href="https://www.hackerrank.com/KeatonSpiller">HackerRank.</a></li><p>
-  
-  <li>💻 Currently working on <a href='https://github.com/KeatonSpiller/Twitter_Data_Engineering'>Twitter Sentiment Stock Market Pipeline</a>
+  <li>💻Personal project <a href='https://github.com/KeatonSpiller/Twitter_Data_Engineering'>Twitter Sentiment Stock Market Pipeline</a>
 &
 <a href='https://github.com/KeatonSpiller/Social_Media_Pipeline'>v2</a>
   </li><p>
-  <li>🎓 Interested in continued education in Machine Learning, Artificial Intelligence, and Computer Science.</li> 
+  <li>  Computer Science.</li> 
 </ul>
 
 | Data Science / Data Analysis  | Artificial Intelligence | Machine Learning | Data Engineering |
