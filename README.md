@@ -15,9 +15,8 @@
 
 | Data Science / Data Analysis | AI | ML | Data Engineering | Computer Science |
 | ------------- | ------------- | ------------- | ------------- |------------- |
-<!--Line 1-->
+
 | <a href="https://github.com/KeatonSpiller/Modern-Regression-Analysis"> Modern Regression Analysis</a>  | <a href="https://github.com/KeatonSpiller/Othello"> Othello Adversarial Minimax & RL NN </a>  |<a href="https://github.com/KeatonSpiller/Spam-Filter"> Spam Filter Naive Bayes </a>  | <a href="https://github.com/KeatonSpiller/Social_Media_Pipeline"> Twitter Sentiment Stock Market Pipeline </a> |  C++ / Java Work 
-<!--Line 1-->
 |
 | <a href="https://github.com/KeatonSpiller/Statistical-Learning"> Statistical Learning </a> 
 | <a href="https://github.com/KeatonSpiller/data"> 8 Queen Problem Genetic Algorithm </a>  
