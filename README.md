@@ -8,7 +8,7 @@
   <li>📖🎓 Pursuing graduate courses </li><p>
     - Computer Science at Portland State University 
   
-  <li>💻Personal Project </li>
+  <li>💻Personal Projects </li>
     - Twitter Sentiment Analysis And Stock Market Data Engineering
 
 |  Software Engineering | AI | ML | Data Engineering | Data Science / Data Analysis |
