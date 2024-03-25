@@ -19,7 +19,7 @@
 |  Software Engineering | Data Structures | AI | ML | Data Engineering | Data Science / Data Analysis |
 | ------------- | ------------- |------------- | ------------- | ------------- |------------- |
 | [MIT BattleCode](https://github.com/KeatonSpiller/SE_battlecode23_winter2024) | [Binary Search Tree]() |[Othello Adversarial Minimax & RL NN](https://github.com/KeatonSpiller/Othello)  |[ Spam Filter Naive Bayes ](https://github.com/KeatonSpiller/Spam-Filter) | [Twitter Sentiment Stock Market Pipeline](https://github.com/KeatonSpiller/Social_Media_Pipeline(https://github.com/KeatonSpiller/Twitter_Data_Engineering))| [Modern Regression Analysis](https://github.com/KeatonSpiller/Modern-Regression-Analysis) |
-| |[CLL, LLL & Vector](https://github.com/KeatonSpiller/SnowSports/tree/main)|[8 Queen Problem Genetic Algorithm](https://github.com/KeatonSpiller/data)| [K Means and Fuzzy C Means Unsupervised Clustering](https://github.com/KeatonSpiller/K-Means-and-Fuzzy-C-Means-Clustering)| [V2 Selenium Twitter Web Scraper](https://github.com/KeatonSpiller/Social_Media_Pipeline)| [Statistical Learning ](https://github.com/KeatonSpiller/Statistical-Learning)  |
+| |[Snow Sports, CLL, LLL & Vector](https://github.com/KeatonSpiller/SnowSports/tree/main)|[8 Queen Problem Genetic Algorithm](https://github.com/KeatonSpiller/data)| [K Means and Fuzzy C Means Unsupervised Clustering](https://github.com/KeatonSpiller/K-Means-and-Fuzzy-C-Means-Clustering)| [V2 Selenium Twitter Web Scraper](https://github.com/KeatonSpiller/Social_Media_Pipeline)| [Statistical Learning ](https://github.com/KeatonSpiller/Statistical-Learning)  |
  
 <!--
 - 🔭 I’m currently working on ...
