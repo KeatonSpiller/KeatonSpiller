@@ -5,13 +5,11 @@
 ⚡<a href="https://keatonspiller.github.io/Portfolio/"> Portfolio</a>
 
 <ul>
-  <li>📖🎓 Pursuing graduate courses at Portland State University in Computer Science </li><p>
+  <li>📖🎓 Pursuing graduate courses </li><p>
+    - Computer Science at Portland State University 
   
-  <li>💻Personal project <a href='https://github.com/KeatonSpiller/Twitter_Data_Engineering'>Twitter Sentiment Stock Market Pipeline</a>
-&
-<a href='https://github.com/KeatonSpiller/Social_Media_Pipeline'>v2</a>
-  </li><p>
-</ul>
+  <li>💻Personal Project </li>
+    - Twitter Sentiment Analysis And Stock Market Data Engineering
 
 |  Software Engineering | AI | ML | Data Engineering | Data Science / Data Analysis |
 | ------------- | ------------- | ------------- | ------------- |------------- |
