@@ -5,11 +5,15 @@
 ⚡<a href="https://keatonspiller.github.io/Portfolio/"> Portfolio</a>
 
 <ul>
-  <li>📖🎓 Pursuing graduate courses </li><p>
+  <li>🎓 Pursuing graduate courses </li><p>
     - Computer Science at Portland State University 
   
   <li>💻Personal Projects </li>
     - Twitter Sentiment Analysis And Stock Market Data Engineering
+
+  <li>📖Latest Classes </li>
+    - Software Engineering CS 554
+    - Software Implementation CS 302
 
 |  Software Engineering | AI | ML | Data Engineering | Data Science / Data Analysis |
 | ------------- | ------------- | ------------- | ------------- |------------- |
