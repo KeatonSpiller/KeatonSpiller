@@ -12,7 +12,8 @@
     - Twitter Sentiment Analysis And Stock Market Data Engineering
 
   <li>📖Latest Classes </li>
-    - Software Engineering CS 554
+    - Software Engineering CS 554 
+    <br>
     - Software Implementation CS 302
 
 |  Software Engineering | AI | ML | Data Engineering | Data Science / Data Analysis |
