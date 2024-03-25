@@ -15,8 +15,8 @@
 
 | Data Science / Data Analysis | AI | ML | Data Engineering | Software Engineering |
 | ------------- | ------------- | ------------- | ------------- |------------- |
-| [Modern Regression Analysis](https://github.com/KeatonSpiller/Modern-Regression-Analysis) | [Othello Adversarial Minimax & RL NN](https://github.com/KeatonSpiller/Othello)  |[ Spam Filter Naive Bayes ](https://github.com/KeatonSpiller/Spam-Filter) | [Twitter Sentiment Stock Market Pipeline ](https://github.com/KeatonSpiller/Social_Media_Pipeline)|  [MIT BattleCode](https://github.com/KeatonSpiller/SE_battlecode23_winter2024)     |
-| <a href="https://github.com/KeatonSpiller/Statistical-Learning"> Statistical Learning </a> | <a href="https://github.com/KeatonSpiller/data"> 8 Queen Problem Genetic Algorithm </a>  | <a href="https://github.com/KeatonSpiller/K-Means-and-Fuzzy-C-Means-Clustering"> K Means and Fuzzy C Means Unsupervised Clustering </a>| | |
+| [Modern Regression Analysis](https://github.com/KeatonSpiller/Modern-Regression-Analysis) | [Othello Adversarial Minimax & RL NN](https://github.com/KeatonSpiller/Othello)  |[ Spam Filter Naive Bayes ](https://github.com/KeatonSpiller/Spam-Filter) | [Twitter Sentiment Stock Market Pipeline ](https://github.com/KeatonSpiller/Social_Media_Pipeline)| [MIT BattleCode](https://github.com/KeatonSpiller/SE_battlecode23_winter2024) |
+| [Statistical Learning ](https://github.com/KeatonSpiller/Statistical-Learning) | [8 Queen Problem Genetic Algorithm](https://github.com/KeatonSpiller/data)| <a href="https://github.com/KeatonSpiller/K-Means-and-Fuzzy-C-Means-Clustering"> K Means and Fuzzy C Means Unsupervised Clustering </a>| | |
  
 <!--
 - 🔭 I’m currently working on ...
