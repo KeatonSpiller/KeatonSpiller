@@ -10,7 +10,7 @@
   
   <li>💻Personal Projects </li><p>
     - Twitter Sentiment Analysis And Stock Market Data Engineering
-<br>  
+
 <li>📖Latest Classes </li><p>
     - Software Engineering CS 554 
     <br>
