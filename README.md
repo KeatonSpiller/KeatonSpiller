@@ -1,4 +1,4 @@
-### Keaton Spiller
+🥽🥽🥽### Keaton Spiller
 ### Bachelors in Data Science
 ### Data Scientist | Data Analyst | Software Engineer | AI / ML
 
@@ -10,7 +10,7 @@
   <li>🎓 Pursuing graduate courses </li><p>
     - Computer Science at Portland State University 
   
-  <li>💻Personal Projects </li><p>
+  <li>🥽Personal Projects </li><p>
     - Twitter Sentiment Analysis And Stock Market Data Engineering
 
 <li>📖Latest Classes </li><p>
