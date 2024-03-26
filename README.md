@@ -2,6 +2,8 @@
 ### Bachelors in Data Science
 ### Data Scientist | Data Analyst | Software Engineer | AI / ML
 
+💻 C++, Java, Python, R, MySql, PostgreSql, Html, CSS
+
 ⚡<a href="https://keatonspiller.github.io/Portfolio/"> Portfolio</a>
 
 <ul>
