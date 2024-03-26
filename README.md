@@ -8,10 +8,10 @@
   <li>🎓 Pursuing graduate courses </li><p>
     - Computer Science at Portland State University 
   
-  <li>💻Personal Projects </li>
+  <li>💻Personal Projects </li><p>
     - Twitter Sentiment Analysis And Stock Market Data Engineering
-
-  <li>📖Latest Classes </li>
+<br>  
+<li>📖Latest Classes </li><p>
     - Software Engineering CS 554 
     <br>
     - Software Implementation CS 302
