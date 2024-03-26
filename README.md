@@ -1,4 +1,4 @@
-🥽🥽🥽### Keaton Spiller
+### Keaton Spiller
 ### Bachelors in Data Science
 ### Data Scientist | Data Analyst | Software Engineer | AI / ML
 
