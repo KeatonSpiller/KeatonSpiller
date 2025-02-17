@@ -1,17 +1,21 @@
 ### Keaton Spiller
-### Bachelors in Data Science
-### Data Scientist | Data Analyst | Software Engineer | AI / ML
+### Software Engineer | Bachelors in Data Science | Postgrad Computer Science
+### Software Engineer | Full Stack | CI/CD | AI/ML | Data Engineering
 
 💻 C++, Java, Python, Jupyter, R, MySQL, PostgreSQL, Html, CSS
 
 ⚡<a href="https://keatonspiller.github.io/Portfolio/"> Portfolio</a>
 
 <ul>
-  <li>🎓 Pursuing graduate courses </li><p>
-    - Computer Science at Portland State University 
+  <li> Currently work at NIWC </li><p>
+    - Agile and Full-Stack development of (TDOL’s) Tactical Data Orchestration Layer <br>
+    - Performing Software Engineering, Data Engineering, DevOps, Platform Engineering and Backend Development, for services including Messaging, and Identity Management <br>
+    - Proficient in Python, Java, Docker, Kubernetes, Open Shift, and Red Hat Linux, specializing in building and deploying scalable, containerized solutions <br>
+    - Developed AI/ML assurance tooling alongside Konfer.ai confidential and wrote an IEE assurance conference paper <br>
   
   <li>🥽Personal Projects </li><p>
-    - Twitter Sentiment Analysis And Stock Market Data Engineering
+    - Twitter Sentiment Analysis And Stock Market Data Engineering <br>
+    - Unity Engine Trampoline Physics <br>
 
 <li>📖Latest Classes </li><p>
     - Software Engineering CS 554 
