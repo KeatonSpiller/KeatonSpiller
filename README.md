@@ -7,7 +7,7 @@
 ⚡<a href="https://keatonspiller.github.io/Portfolio/"> Portfolio</a>
 
 <ul>
-  <li> Currently work at NIWC </li><p>
+  <li> Scientist and Software Engineer at NIWC </li><p>
     - Agile and Full-Stack development of (TDOL’s) Tactical Data Orchestration Layer <br>
     - Performing Software Engineering, Data Engineering, DevOps, Platform Engineering and Backend Development, for services including Messaging, and Identity Management <br>
     - Proficient in Python, Java, Docker, Kubernetes, Open Shift, and Red Hat Linux, specializing in building and deploying scalable, containerized solutions <br>
