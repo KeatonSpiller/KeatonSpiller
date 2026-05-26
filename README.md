@@ -1,6 +1,7 @@
 ### Keaton Spiller
-### Software Engineer | Bachelors in Data Science | Postgrad Computer Science
 ### Software Engineer | Full Stack | CI/CD | AI/ML | Data Engineering
+### Postgrad Computer Science | Bachelors in Data Science
+
 
 💻 C++, Java, Python, Jupyter, R, MySQL, PostgreSQL, Html, CSS
 
@@ -8,7 +9,7 @@
 
 <ul>
   <li> Scientist and Software Engineer at NIWC </li><p>
-    - Agile and Full-Stack development of (TDOL’s) Tactical Data Orchestration Layer <br>
+    - Agile and Full-Stack development supporting Data Orchestration <br>
     - Performing Software Engineering, Data Engineering, DevOps, Platform Engineering and Backend Development, for services including Messaging, and Identity Management <br>
     - Proficient in Python, Java, Docker, Kubernetes, Open Shift, and Red Hat Linux, specializing in building and deploying scalable, containerized solutions <br>
     - Developed AI/ML assurance tooling alongside Konfer.ai confidential and wrote an IEE assurance conference paper <br>
